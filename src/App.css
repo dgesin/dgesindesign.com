@@ -202,11 +202,6 @@ p{
     color:#0abdbd;
 }
 
-
-.background-image{
-    display:none;
-}
-
 .background-image.top-align{
     top:0;
     transform:translateY(0);
