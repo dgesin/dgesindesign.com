@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "https://dgesindesign.com",
   "dependencies": {
+    "gh-pages": "^1.1.0",
+    "prop-types": "^15.6.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-download-link": "^2.1.3",
