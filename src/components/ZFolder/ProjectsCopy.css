@@ -1,0 +1,70 @@
+.body{
+    
+}
+
+.project-section{
+    display:block;
+    height:100%;
+}
+
+.projects-description, .project-logos{
+    display:inline-block;
+    margin:0;
+    width:50%;
+}
+
+.project-logos{
+    position:relative;
+    top:50%;
+    transform: translateY(-50%);
+}
+
+.project-copy, .project-title{
+    margin:0 15%;
+    width:70%;
+}
+
+.projects-menu{
+    bottom:2rem;
+    display:block;
+    margin:0;
+    padding:0;
+    position:absolute; 
+    width:100%;   
+}
+
+.projects-menu li{
+    display:inline-block;
+    margin:1rem 3% 0 3%;
+    text-align:center;
+    width: 19%;
+}
+
+.projects-menu a{
+    background: none;
+    border:1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 4px;
+    display:inline-block;
+    font-size: 1.4rem;
+    line-height:4rem;
+    text-align:center;
+    text-decoration:none;
+    width:100%;
+}
+
+.row{
+    display:block;
+    text-align:right;
+}
+
+.row .logo{
+    display:inline-block;
+    text-align:center;
+    width:50%;
+}
+
+.row img{
+    margin-top:10%;
+    margin-bottom:10%;
+    vertical-align:middle;
+}
